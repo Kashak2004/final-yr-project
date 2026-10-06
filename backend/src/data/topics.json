@@ -1,0 +1,44 @@
+{
+  "HTML": {
+    "level": "Beginner",
+    "category": "Frontend",
+    "order": 1,
+    "subtopics": ["Tags", "Forms", "Semantic HTML"]
+  },
+  "CSS": {
+    "level": "Beginner",
+    "category": "Frontend",
+    "order": 2,
+    "subtopics": ["Flexbox", "Grid", "Responsive Design"]
+  },
+  "JavaScript": {
+    "level": "Beginner",
+    "category": "Frontend",
+    "order": 3,
+    "subtopics": ["ES6", "Async/Await", "DOM Manipulation"]
+  },
+  "React": {
+    "level": "Intermediate",
+    "category": "Frontend",
+    "order": 4,
+    "subtopics": ["Components", "Hooks", "State Management"]
+  },
+  "Node.js": {
+    "level": "Intermediate",
+    "category": "Backend",
+    "order": 5,
+    "subtopics": ["Event Loop", "Modules", "File System"]
+  },
+  "Express.js": {
+    "level": "Intermediate",
+    "category": "Backend",
+    "order": 6,
+    "subtopics": ["Routing", "Middleware", "REST APIs"]
+  },
+  "MongoDB": {
+    "level": "Intermediate",
+    "category": "Database",
+    "order": 7,
+    "subtopics": ["Collections", "CRUD", "Mongoose"]
+  }
+}
